@@ -1,0 +1,354 @@
+
+{
+  "lesson_id": 1,
+  "media_1": "https://cdn.jsdelivr.net/gh/hoangdienidvn-ui/eps_topik_1-10@main/",
+  "media_2": "https://archive.org/download/eps_topik_1-10/",
+  "title": "자기소개",
+  "title_vi": "Giới thiệu bản thân",
+  "vocabulary": [
+    {
+      "id": 1,
+      "ko": "한국",
+      "vi": "Hàn Quốc",
+      "img": "",
+      "female_kr": "female_kr001.mp3",
+      "male_kr": "male_kr001.mp3"
+    },
+    {
+      "id": 2,
+      "ko": "네팔",
+      "vi": "Nepal",
+      "img": "",
+      "female_kr": "female_kr002.mp3",
+      "male_kr": "male_kr002.mp3"
+    },
+    {
+      "id": 3,
+      "ko": "동티모르",
+      "vi": "Đông Timor",
+      "img": "",
+      "female_kr": "female_kr003.mp3",
+      "male_kr": "male_kr003.mp3"
+    },
+    {
+      "id": 4,
+      "ko": "라오스",
+      "vi": "Lào",
+      "img": "",
+      "female_kr": "female_kr004.mp3",
+      "male_kr": "male_kr004.mp3"
+    },
+    {
+      "id": 5,
+      "ko": "몽골",
+      "vi": "Mông Cổ",
+      "img": "",
+      "female_kr": "female_kr005.mp3",
+      "male_kr": "male_kr005.mp3"
+    },
+    {
+      "id": 6,
+      "ko": "미얀마",
+      "vi": "Myanmar",
+      "img": "",
+      "female_kr": "female_kr006.mp3",
+      "male_kr": "male_kr006.mp3"
+    },
+    {
+      "id": 7,
+      "ko": "방글라데시",
+      "vi": "Bangladesh",
+      "img": "",
+      "female_kr": "female_kr007.mp3",
+      "male_kr": "male_kr007.mp3"
+    },
+    {
+      "id": 8,
+      "ko": "베트남",
+      "vi": "Việt Nam",
+      "img": "",
+      "female_kr": "female_kr008.mp3",
+      "male_kr": "male_kr008.mp3"
+    },
+    {
+      "id": 9,
+      "ko": "스리랑카",
+      "vi": "Sri Lanka",
+      "img": "",
+      "female_kr": "female_kr009.mp3",
+      "male_kr": "male_kr009.mp3"
+    },
+    {
+      "id": 10,
+      "ko": "우즈베키스탄",
+      "vi": "Uzbekistan",
+      "img": "",
+      "female_kr": "female_kr010.mp3",
+      "male_kr": "male_kr010.mp3"
+    },
+    {
+      "id": 11,
+      "ko": "인도네시아",
+      "vi": "Indonesia",
+      "img": "",
+      "female_kr": "female_kr011.mp3",
+      "male_kr": "male_kr011.mp3"
+    },
+    {
+      "id": 12,
+      "ko": "중국",
+      "vi": "Trung Quốc",
+      "img": "",
+      "female_kr": "female_kr012.mp3",
+      "male_kr": "male_kr012.mp3"
+    },
+    {
+      "id": 13,
+      "ko": "캄보디아",
+      "vi": "Campuchia",
+      "img": "",
+      "female_kr": "female_kr013.mp3",
+      "male_kr": "male_kr013.mp3"
+    },
+    {
+      "id": 14,
+      "ko": "키르기스스탄",
+      "vi": "Kyrgyzstan",
+      "img": "",
+      "female_kr": "female_kr014.mp3",
+      "male_kr": "male_kr014.mp3"
+    },
+    {
+      "id": 15,
+      "ko": "타지키스탄",
+      "vi": "Tajikistan",
+      "img": "",
+      "female_kr": "female_kr015.mp3",
+      "male_kr": "male_kr015.mp3"
+    },
+    {
+      "id": 16,
+      "ko": "태국",
+      "vi": "Thái Lan",
+      "img": "",
+      "female_kr": "female_kr016.mp3",
+      "male_kr": "male_kr016.mp3"
+    },
+    {
+      "id": 17,
+      "ko": "파키스탄",
+      "vi": "Pakistan",
+      "img": "",
+      "female_kr": "female_kr017.mp3",
+      "male_kr": "male_kr017.mp3"
+    },
+    {
+      "id": 18,
+      "ko": "필리핀",
+      "vi": "Philippines",
+      "img": "",
+      "female_kr": "female_kr018.mp3",
+      "male_kr": "male_kr018.mp3"
+    },
+    {
+      "id": 19,
+      "ko": "어느",
+      "vi": "Nào",
+      "img": "",
+      "female_kr": "female_kr019.mp3",
+      "male_kr": "male_kr019.mp3"
+    },
+    {
+      "id": 20,
+      "ko": "사람",
+      "vi": "Người",
+      "img": "",
+      "female_kr": "female_kr020.mp3",
+      "male_kr": "male_kr020.mp3"
+    },
+    {
+      "id": 21,
+      "ko": "이름",
+      "vi": "Tên",
+      "img": "",
+      "female_kr": "female_kr021.mp3",
+      "male_kr": "male_kr021.mp3"
+    },
+    {
+      "id": 22,
+      "ko": "국적",
+      "vi": "Quốc tịch",
+      "img": "",
+      "female_kr": "female_kr022.mp3",
+      "male_kr": "male_kr022.mp3"
+    },
+    {
+      "id": 23,
+      "ko": "누구",
+      "vi": "Ai",
+      "img": "",
+      "female_kr": "female_kr023.mp3",
+      "male_kr": "male_kr023.mp3"
+    },
+    {
+      "id": 24,
+      "ko": "학생",
+      "vi": "Học sinh, sinh viên",
+      "img": "",
+      "female_kr": "female_kr024.mp3",
+      "male_kr": "male_kr024.mp3"
+    },
+    {
+      "id": 25,
+      "ko": "선생님",
+      "vi": "Giáo viên, thầy/cô",
+      "img": "",
+      "female_kr": "female_kr025.mp3",
+      "male_kr": "male_kr025.mp3"
+    },
+    {
+      "id": 26,
+      "ko": "회사원",
+      "vi": "Nhân viên công ty",
+      "img": "",
+      "female_kr": "female_kr026.mp3",
+      "male_kr": "male_kr026.mp3"
+    },
+    {
+      "id": 27,
+      "ko": "근로자",
+      "vi": "Người lao động, công nhân",
+      "img": "",
+      "female_kr": "female_kr027.mp3",
+      "male_kr": "male_kr027.mp3"
+    },
+    {
+      "id": 28,
+      "ko": "경찰관",
+      "vi": "Cảnh sát",
+      "img": "",
+      "female_kr": "female_kr028.mp3",
+      "male_kr": "male_kr028.mp3"
+    },
+    {
+      "id": 29,
+      "ko": "소방관",
+      "vi": "Lính cứu hỏa",
+      "img": "",
+      "female_kr": "female_kr029.mp3",
+      "male_kr": "male_kr029.mp3"
+    },
+    {
+      "id": 30,
+      "ko": "공무원",
+      "vi": "Công chức",
+      "img": "",
+      "female_kr": "female_kr030.mp3",
+      "male_kr": "male_kr030.mp3"
+    },
+    {
+      "id": 31,
+      "ko": "점원",
+      "vi": "Nhân viên bán hàng",
+      "img": "",
+      "female_kr": "female_kr031.mp3",
+      "male_kr": "male_kr031.mp3"
+    },
+    {
+      "id": 32,
+      "ko": "의사",
+      "vi": "Bác sĩ",
+      "img": "",
+      "female_kr": "female_kr032.mp3",
+      "male_kr": "male_kr032.mp3"
+    },
+    {
+      "id": 33,
+      "ko": "간호사",
+      "vi": "Y tá, điều dưỡng",
+      "img": "",
+      "female_kr": "female_kr033.mp3",
+      "male_kr": "male_kr033.mp3"
+    },
+    {
+      "id": 34,
+      "ko": "요리사",
+      "vi": "Đầu bếp",
+      "img": "",
+      "female_kr": "female_kr034.mp3",
+      "male_kr": "male_kr034.mp3"
+    },
+    {
+      "id": 35,
+      "ko": "운전기사",
+      "vi": "Tài xế",
+      "img": "",
+      "female_kr": "female_kr035.mp3",
+      "male_kr": "male_kr035.mp3"
+    },
+    {
+      "id": 36,
+      "ko": "기술자",
+      "vi": "Kỹ thuật viên",
+      "img": "",
+      "female_kr": "female_kr036.mp3",
+      "male_kr": "male_kr036.mp3"
+    },
+    {
+      "id": 37,
+      "ko": "목수",
+      "vi": "Thợ mộc",
+      "img": "",
+      "female_kr": "female_kr037.mp3",
+      "male_kr": "male_kr037.mp3"
+    },
+    {
+      "id": 38,
+      "ko": "농부",
+      "vi": "Nông dân",
+      "img": "",
+      "female_kr": "female_kr038.mp3",
+      "male_kr": "male_kr038.mp3"
+    },
+    {
+      "id": 39,
+      "ko": "어부",
+      "vi": "Ngư dân",
+      "img": "",
+      "female_kr": "female_kr039.mp3",
+      "male_kr": "male_kr039.mp3"
+    },
+    {
+      "id": 40,
+      "ko": "씨",
+      "vi": "Anh/chị/ông/bà (đứng sau tên)",
+      "img": "",
+      "female_kr": "female_kr040.mp3",
+      "male_kr": "male_kr040.mp3"
+    },
+    {
+      "id": 41,
+      "ko": "저",
+      "vi": "Tôi (khiêm nhường)",
+      "img": "",
+      "female_kr": "female_kr041.mp3",
+      "male_kr": "male_kr041.mp3"
+    },
+    {
+      "id": 42,
+      "ko": "아니요",
+      "vi": "Không",
+      "img": "",
+      "female_kr": "female_kr042.mp3",
+      "male_kr": "male_kr042.mp3"
+    },
+    {
+      "id": 43,
+      "ko": "네",
+      "vi": "Vâng, có",
+      "img": "",
+      "female_kr": "female_kr043.mp3",
+      "male_kr": "male_kr043.mp3"
+    }
+  ]
+}
