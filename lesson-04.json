@@ -1,0 +1,242 @@
+
+{
+  "lesson_id": 4,
+  "media_1": "https://cdn.jsdelivr.net/gh/hoangdienidvn-ui/eps_topik_1-10@main/",
+  "media_2": "https://archive.org/download/eps_topik_1-10/",
+  "title": "동작과 사물",
+  "title_vi": "Hành động và đồ vật",
+  "vocabulary": [
+  {
+    "id": 104,
+    "ko": "일하다",
+    "vi": "Làm việc",
+    "img": "",
+    "female_kr": "female_kr104.mp3",
+    "male_kr": "male_kr104.mp3"
+  },
+  {
+    "id": 105,
+    "ko": "공부하다",
+    "vi": "Học",
+    "img": "",
+    "female_kr": "female_kr105.mp3",
+    "male_kr": "male_kr105.mp3"
+  },
+  {
+    "id": 106,
+    "ko": "운동하다",
+    "vi": "Tập thể dục",
+    "img": "",
+    "female_kr": "female_kr106.mp3",
+    "male_kr": "male_kr106.mp3"
+  },
+  {
+    "id": 107,
+    "ko": "전화하다",
+    "vi": "Gọi điện",
+    "img": "",
+    "female_kr": "female_kr107.mp3",
+    "male_kr": "male_kr107.mp3"
+  },
+  {
+    "id": 108,
+    "ko": "요리하다",
+    "vi": "Nấu ăn",
+    "img": "",
+    "female_kr": "female_kr108.mp3",
+    "male_kr": "male_kr108.mp3"
+  },
+  {
+    "id": 109,
+    "ko": "쇼핑하다",
+    "vi": "Mua sắm",
+    "img": "",
+    "female_kr": "female_kr109.mp3",
+    "male_kr": "male_kr109.mp3"
+  },
+  {
+    "id": 110,
+    "ko": "쉬다",
+    "vi": "Nghỉ ngơi",
+    "img": "",
+    "female_kr": "female_kr110.mp3",
+    "male_kr": "male_kr110.mp3"
+  },
+  {
+    "id": 111,
+    "ko": "자다",
+    "vi": "Ngủ",
+    "img": "",
+    "female_kr": "female_kr111.mp3",
+    "male_kr": "male_kr111.mp3"
+  },
+  {
+    "id": 112,
+    "ko": "가다",
+    "vi": "Đi",
+    "img": "",
+    "female_kr": "female_kr112.mp3",
+    "male_kr": "male_kr112.mp3"
+  },
+  {
+    "id": 113,
+    "ko": "오다",
+    "vi": "Đến",
+    "img": "",
+    "female_kr": "female_kr113.mp3",
+    "male_kr": "male_kr113.mp3"
+  },
+  {
+    "id": 114,
+    "ko": "하다",
+    "vi": "Làm",
+    "img": "",
+    "female_kr": "female_kr114.mp3",
+    "male_kr": "male_kr114.mp3"
+  },
+  {
+    "id": 115,
+    "ko": "밥",
+    "vi": "Cơm/bữa ăn",
+    "img": "",
+    "female_kr": "female_kr115.mp3",
+    "male_kr": "male_kr115.mp3"
+  },
+  {
+    "id": 116,
+    "ko": "사과",
+    "vi": "Táo",
+    "img": "",
+    "female_kr": "female_kr116.mp3",
+    "male_kr": "male_kr116.mp3"
+  },
+  {
+    "id": 117,
+    "ko": "빵",
+    "vi": "Bánh mì",
+    "img": "",
+    "female_kr": "female_kr117.mp3",
+    "male_kr": "male_kr117.mp3"
+  },
+  {
+    "id": 118,
+    "ko": "과자",
+    "vi": "Bánh snack/đồ ăn vặt",
+    "img": "",
+    "female_kr": "female_kr118.mp3",
+    "male_kr": "male_kr118.mp3"
+  },
+  {
+    "id": 119,
+    "ko": "먹다",
+    "vi": "Ăn",
+    "img": "",
+    "female_kr": "female_kr119.mp3",
+    "male_kr": "male_kr119.mp3"
+  },
+  {
+    "id": 120,
+    "ko": "텔레비전",
+    "vi": "Tivi",
+    "img": "",
+    "female_kr": "female_kr120.mp3",
+    "male_kr": "male_kr120.mp3"
+  },
+  {
+    "id": 121,
+    "ko": "영화",
+    "vi": "Phim",
+    "img": "",
+    "female_kr": "female_kr121.mp3",
+    "male_kr": "male_kr121.mp3"
+  },
+  {
+    "id": 122,
+    "ko": "보다",
+    "vi": "Xem",
+    "img": "",
+    "female_kr": "female_kr122.mp3",
+    "male_kr": "male_kr122.mp3"
+  },
+  {
+    "id": 123,
+    "ko": "책",
+    "vi": "Sách",
+    "img": "",
+    "female_kr": "female_kr123.mp3",
+    "male_kr": "male_kr123.mp3"
+  },
+  {
+    "id": 124,
+    "ko": "신문",
+    "vi": "Báo",
+    "img": "",
+    "female_kr": "female_kr124.mp3",
+    "male_kr": "male_kr124.mp3"
+  },
+  {
+    "id": 125,
+    "ko": "읽다",
+    "vi": "Đọc",
+    "img": "",
+    "female_kr": "female_kr125.mp3",
+    "male_kr": "male_kr125.mp3"
+  },
+  {
+    "id": 126,
+    "ko": "물",
+    "vi": "Nước",
+    "img": "",
+    "female_kr": "female_kr126.mp3",
+    "male_kr": "male_kr126.mp3"
+  },
+  {
+    "id": 127,
+    "ko": "우유",
+    "vi": "Sữa",
+    "img": "",
+    "female_kr": "female_kr127.mp3",
+    "male_kr": "male_kr127.mp3"
+  },
+  {
+    "id": 128,
+    "ko": "주스",
+    "vi": "Nước ép",
+    "img": "",
+    "female_kr": "female_kr128.mp3",
+    "male_kr": "male_kr128.mp3"
+  },
+  {
+    "id": 129,
+    "ko": "커피",
+    "vi": "Cà phê",
+    "img": "",
+    "female_kr": "female_kr129.mp3",
+    "male_kr": "male_kr129.mp3"
+  },
+  {
+    "id": 130,
+    "ko": "마시다",
+    "vi": "Uống",
+    "img": "",
+    "female_kr": "female_kr130.mp3",
+    "male_kr": "male_kr130.mp3"
+  },
+  {
+    "id": 131,
+    "ko": "지금",
+    "vi": "Bây giờ",
+    "img": "",
+    "female_kr": "female_kr131.mp3",
+    "male_kr": "male_kr131.mp3"
+  },
+  {
+    "id": 132,
+    "ko": "오늘",
+    "vi": "Hôm nay",
+    "img": "",
+    "female_kr": "female_kr132.mp3",
+    "male_kr": "male_kr132.mp3"
+  }
+]
+}
