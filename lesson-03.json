@@ -1,0 +1,274 @@
+
+{
+  "lesson_id": 3,
+  "media_1": "https://cdn.jsdelivr.net/gh/hoangdienidvn-ui/eps_topik_1-10@main/",
+  "media_2": "https://archive.org/download/eps_topik_1-10/",
+  "title": "위치와 장소",
+  "title_vi": "Vị trí và địa điểm",
+  "vocabulary": [
+  {
+    "id": 71,
+    "ko": "에어컨",
+    "vi": "Máy điều hòa",
+    "img": "",
+    "female_kr": "female_kr071.mp3",
+    "male_kr": "male_kr071.mp3"
+  },
+  {
+    "id": 72,
+    "ko": "침대",
+    "vi": "Giường",
+    "img": "",
+    "female_kr": "female_kr072.mp3",
+    "male_kr": "male_kr072.mp3"
+  },
+  {
+    "id": 73,
+    "ko": "의자",
+    "vi": "Ghế",
+    "img": "",
+    "female_kr": "female_kr073.mp3",
+    "male_kr": "male_kr073.mp3"
+  },
+  {
+    "id": 74,
+    "ko": "책상",
+    "vi": "Bàn học/bàn làm việc",
+    "img": "",
+    "female_kr": "female_kr074.mp3",
+    "male_kr": "male_kr074.mp3"
+  },
+  {
+    "id": 75,
+    "ko": "옷장",
+    "vi": "Tủ quần áo",
+    "img": "",
+    "female_kr": "female_kr075.mp3",
+    "male_kr": "male_kr075.mp3"
+  },
+  {
+    "id": 76,
+    "ko": "소파",
+    "vi": "Ghế sô-pha",
+    "img": "",
+    "female_kr": "female_kr076.mp3",
+    "male_kr": "male_kr076.mp3"
+  },
+  {
+    "id": 77,
+    "ko": "텔레비전",
+    "vi": "Tivi",
+    "img": "",
+    "female_kr": "female_kr077.mp3",
+    "male_kr": "male_kr077.mp3"
+  },
+  {
+    "id": 78,
+    "ko": "전자레인지",
+    "vi": "Lò vi sóng",
+    "img": "",
+    "female_kr": "female_kr078.mp3",
+    "male_kr": "male_kr078.mp3"
+  },
+  {
+    "id": 79,
+    "ko": "세탁기",
+    "vi": "Máy giặt",
+    "img": "",
+    "female_kr": "female_kr079.mp3",
+    "male_kr": "male_kr079.mp3"
+  },
+  {
+    "id": 80,
+    "ko": "냉장고",
+    "vi": "Tủ lạnh",
+    "img": "",
+    "female_kr": "female_kr080.mp3",
+    "male_kr": "male_kr080.mp3"
+  },
+  {
+    "id": 81,
+    "ko": "청소기",
+    "vi": "Máy hút bụi",
+    "img": "",
+    "female_kr": "female_kr081.mp3",
+    "male_kr": "male_kr081.mp3"
+  },
+  {
+    "id": 82,
+    "ko": "식탁",
+    "vi": "Bàn ăn",
+    "img": "",
+    "female_kr": "female_kr082.mp3",
+    "male_kr": "male_kr082.mp3"
+  },
+  {
+    "id": 83,
+    "ko": "회사",
+    "vi": "Công ty/nơi làm việc",
+    "img": "",
+    "female_kr": "female_kr083.mp3",
+    "male_kr": "male_kr083.mp3"
+  },
+  {
+    "id": 84,
+    "ko": "식당",
+    "vi": "Nhà hàng/quán ăn",
+    "img": "",
+    "female_kr": "female_kr084.mp3",
+    "male_kr": "male_kr084.mp3"
+  },
+  {
+    "id": 85,
+    "ko": "은행",
+    "vi": "Ngân hàng",
+    "img": "",
+    "female_kr": "female_kr085.mp3",
+    "male_kr": "male_kr085.mp3"
+  },
+  {
+    "id": 86,
+    "ko": "커피숍",
+    "vi": "Quán cà phê",
+    "img": "",
+    "female_kr": "female_kr086.mp3",
+    "male_kr": "male_kr086.mp3"
+  },
+  {
+    "id": 87,
+    "ko": "편의점",
+    "vi": "Cửa hàng tiện lợi",
+    "img": "",
+    "female_kr": "female_kr087.mp3",
+    "male_kr": "male_kr087.mp3"
+  },
+  {
+    "id": 88,
+    "ko": "시장",
+    "vi": "Chợ",
+    "img": "",
+    "female_kr": "female_kr088.mp3",
+    "male_kr": "male_kr088.mp3"
+  },
+  {
+    "id": 89,
+    "ko": "미용실",
+    "vi": "Tiệm làm tóc",
+    "img": "",
+    "female_kr": "female_kr089.mp3",
+    "male_kr": "male_kr089.mp3"
+  },
+  {
+    "id": 90,
+    "ko": "슈퍼마켓",
+    "vi": "Siêu thị",
+    "img": "",
+    "female_kr": "female_kr090.mp3",
+    "male_kr": "male_kr090.mp3"
+  },
+  {
+    "id": 91,
+    "ko": "약국",
+    "vi": "Nhà thuốc",
+    "img": "",
+    "female_kr": "female_kr091.mp3",
+    "male_kr": "male_kr091.mp3"
+  },
+  {
+    "id": 92,
+    "ko": "병원",
+    "vi": "Bệnh viện",
+    "img": "",
+    "female_kr": "female_kr092.mp3",
+    "male_kr": "male_kr092.mp3"
+  },
+  {
+    "id": 93,
+    "ko": "우체국",
+    "vi": "Bưu điện",
+    "img": "",
+    "female_kr": "female_kr093.mp3",
+    "male_kr": "male_kr093.mp3"
+  },
+  {
+    "id": 94,
+    "ko": "집",
+    "vi": "Nhà",
+    "img": "",
+    "female_kr": "female_kr094.mp3",
+    "male_kr": "male_kr094.mp3"
+  },
+  {
+    "id": 95,
+    "ko": "방",
+    "vi": "Phòng",
+    "img": "",
+    "female_kr": "female_kr095.mp3",
+    "male_kr": "male_kr095.mp3"
+  },
+  {
+    "id": 96,
+    "ko": "화장실",
+    "vi": "Nhà vệ sinh",
+    "img": "",
+    "female_kr": "female_kr096.mp3",
+    "male_kr": "male_kr096.mp3"
+  },
+  {
+    "id": 97,
+    "ko": "거실",
+    "vi": "Phòng khách",
+    "img": "",
+    "female_kr": "female_kr097.mp3",
+    "male_kr": "male_kr097.mp3"
+  },
+  {
+    "id": 98,
+    "ko": "부엌",
+    "vi": "Nhà bếp",
+    "img": "",
+    "female_kr": "female_kr098.mp3",
+    "male_kr": "male_kr098.mp3"
+  },
+  {
+    "id": 99,
+    "ko": "여기",
+    "vi": "Ở đây",
+    "img": "",
+    "female_kr": "female_kr099.mp3",
+    "male_kr": "male_kr099.mp3"
+  },
+  {
+    "id": 100,
+    "ko": "거기",
+    "vi": "Ở đó",
+    "img": "",
+    "female_kr": "female_kr0100.mp3",
+    "male_kr": "male_kr0100.mp3"
+  },
+  {
+    "id": 101,
+    "ko": "저기",
+    "vi": "Ở kia",
+    "img": "",
+    "female_kr": "female_kr0101.mp3",
+    "male_kr": "male_kr0101.mp3"
+  },
+  {
+    "id": 102,
+    "ko": "어디",
+    "vi": "Ở đâu",
+    "img": "",
+    "female_kr": "female_kr0102.mp3",
+    "male_kr": "male_kr0102.mp3"
+  },
+  {
+    "id": 103,
+    "ko": "기숙사",
+    "vi": "Ký túc xá",
+    "img": "",
+    "female_kr": "female_kr0103.mp3",
+    "male_kr": "male_kr0103.mp3"
+  }
+]
+}
