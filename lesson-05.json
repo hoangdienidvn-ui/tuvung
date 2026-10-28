@@ -1,0 +1,426 @@
+
+{
+  "lesson_id": 5,
+  "media_1": "https://cdn.jsdelivr.net/gh/hoangdienidvn-ui/eps_topik_1-10@main/",
+  "media_2": "https://archive.org/download/eps_topik_1-10/",
+  "title": "날짜와 요일",
+  "title_vi": "Ngày tháng và các thứ trong tuần",
+  "vocabulary": [
+  {
+    "id": 133,
+    "ko": "월요일",
+    "vi": "Thứ Hai",
+    "img": "",
+    "female_kr": "female_kr133.mp3",
+    "male_kr": "male_kr133.mp3"
+  },
+  {
+    "id": 134,
+    "ko": "어제",
+    "vi": "Hôm qua",
+    "img": "",
+    "female_kr": "female_kr134.mp3",
+    "male_kr": "male_kr134.mp3"
+  },
+  {
+    "id": 135,
+    "ko": "오늘",
+    "vi": "Hôm nay",
+    "img": "",
+    "female_kr": "female_kr135.mp3",
+    "male_kr": "male_kr135.mp3"
+  },
+  {
+    "id": 136,
+    "ko": "내일",
+    "vi": "Ngày mai",
+    "img": "",
+    "female_kr": "female_kr136.mp3",
+    "male_kr": "male_kr136.mp3"
+  },
+  {
+    "id": 137,
+    "ko": "평일",
+    "vi": "Ngày trong tuần",
+    "img": "",
+    "female_kr": "female_kr137.mp3",
+    "male_kr": "male_kr137.mp3"
+  },
+  {
+    "id": 138,
+    "ko": "주말",
+    "vi": "Cuối tuần",
+    "img": "",
+    "female_kr": "female_kr138.mp3",
+    "male_kr": "male_kr138.mp3"
+  },
+  {
+    "id": 139,
+    "ko": "매일",
+    "vi": "Mỗi ngày/hằng ngày",
+    "img": "",
+    "female_kr": "female_kr139.mp3",
+    "male_kr": "male_kr139.mp3"
+  },
+  {
+    "id": 140,
+    "ko": "화요일",
+    "vi": "Thứ Ba",
+    "img": "",
+    "female_kr": "female_kr140.mp3",
+    "male_kr": "male_kr140.mp3"
+  },
+  {
+    "id": 141,
+    "ko": "수요일",
+    "vi": "Thứ Tư",
+    "img": "",
+    "female_kr": "female_kr141.mp3",
+    "male_kr": "male_kr141.mp3"
+  },
+  {
+    "id": 142,
+    "ko": "목요일",
+    "vi": "Thứ Năm",
+    "img": "",
+    "female_kr": "female_kr142.mp3",
+    "male_kr": "male_kr142.mp3"
+  },
+  {
+    "id": 143,
+    "ko": "금요일",
+    "vi": "Thứ Sáu",
+    "img": "",
+    "female_kr": "female_kr143.mp3",
+    "male_kr": "male_kr143.mp3"
+  },
+  {
+    "id": 144,
+    "ko": "토요일",
+    "vi": "Thứ Bảy",
+    "img": "",
+    "female_kr": "female_kr144.mp3",
+    "male_kr": "male_kr144.mp3"
+  },
+  {
+    "id": 145,
+    "ko": "일요일",
+    "vi": "Chủ nhật",
+    "img": "",
+    "female_kr": "female_kr145.mp3",
+    "male_kr": "male_kr145.mp3"
+  },
+  {
+    "id": 146,
+    "ko": "지난주",
+    "vi": "Tuần trước",
+    "img": "",
+    "female_kr": "female_kr146.mp3",
+    "male_kr": "male_kr146.mp3"
+  },
+  {
+    "id": 147,
+    "ko": "이번 주",
+    "vi": "Tuần này",
+    "img": "",
+    "female_kr": "female_kr147.mp3",
+    "male_kr": "male_kr147.mp3"
+  },
+  {
+    "id": 148,
+    "ko": "다음 주",
+    "vi": "Tuần sau",
+    "img": "",
+    "female_kr": "female_kr148.mp3",
+    "male_kr": "male_kr148.mp3"
+  },
+  {
+    "id": 149,
+    "ko": "이번 달",
+    "vi": "Tháng này",
+    "img": "",
+    "female_kr": "female_kr149.mp3",
+    "male_kr": "male_kr149.mp3"
+  },
+  {
+    "id": 150,
+    "ko": "다음 달",
+    "vi": "Tháng sau",
+    "img": "",
+    "female_kr": "female_kr150.mp3",
+    "male_kr": "male_kr150.mp3"
+  },
+  {
+    "id": 151,
+    "ko": "1월",
+    "vi": "Tháng Một",
+    "img": "",
+    "female_kr": "female_kr151.mp3",
+    "male_kr": "male_kr151.mp3"
+  },
+  {
+    "id": 152,
+    "ko": "2월",
+    "vi": "Tháng Hai",
+    "img": "",
+    "female_kr": "female_kr152.mp3",
+    "male_kr": "male_kr152.mp3"
+  },
+  {
+    "id": 153,
+    "ko": "3월",
+    "vi": "Tháng Ba",
+    "img": "",
+    "female_kr": "female_kr153.mp3",
+    "male_kr": "male_kr153.mp3"
+  },
+  {
+    "id": 154,
+    "ko": "4월",
+    "vi": "Tháng Tư",
+    "img": "",
+    "female_kr": "female_kr154.mp3",
+    "male_kr": "male_kr154.mp3"
+  },
+  {
+    "id": 155,
+    "ko": "5월",
+    "vi": "Tháng Năm",
+    "img": "",
+    "female_kr": "female_kr155.mp3",
+    "male_kr": "male_kr155.mp3"
+  },
+  {
+    "id": 156,
+    "ko": "6월",
+    "vi": "Tháng Sáu",
+    "img": "",
+    "female_kr": "female_kr156.mp3",
+    "male_kr": "male_kr156.mp3"
+  },
+  {
+    "id": 157,
+    "ko": "7월",
+    "vi": "Tháng Bảy",
+    "img": "",
+    "female_kr": "female_kr157.mp3",
+    "male_kr": "male_kr157.mp3"
+  },
+  {
+    "id": 158,
+    "ko": "8월",
+    "vi": "Tháng Tám",
+    "img": "",
+    "female_kr": "female_kr158.mp3",
+    "male_kr": "male_kr158.mp3"
+  },
+  {
+    "id": 159,
+    "ko": "9월",
+    "vi": "Tháng Chín",
+    "img": "",
+    "female_kr": "female_kr159.mp3",
+    "male_kr": "male_kr159.mp3"
+  },
+  {
+    "id": 160,
+    "ko": "10월",
+    "vi": "Tháng Mười",
+    "img": "",
+    "female_kr": "female_kr160.mp3",
+    "male_kr": "male_kr160.mp3"
+  },
+  {
+    "id": 161,
+    "ko": "11월",
+    "vi": "Tháng Mười Một",
+    "img": "",
+    "female_kr": "female_kr161.mp3",
+    "male_kr": "male_kr161.mp3"
+  },
+  {
+    "id": 162,
+    "ko": "12월",
+    "vi": "Tháng Mười Hai",
+    "img": "",
+    "female_kr": "female_kr162.mp3",
+    "male_kr": "male_kr162.mp3"
+  },
+  {
+    "id": 163,
+    "ko": "일",
+    "vi": "Ngày",
+    "img": "",
+    "female_kr": "female_kr163.mp3",
+    "male_kr": "male_kr163.mp3"
+  },
+  {
+    "id": 164,
+    "ko": "숫자",
+    "vi": "Số",
+    "img": "",
+    "female_kr": "female_kr164.mp3",
+    "male_kr": "male_kr164.mp3"
+  },
+  {
+    "id": 165,
+    "ko": "일",
+    "vi": "Một",
+    "img": "",
+    "female_kr": "female_kr165.mp3",
+    "male_kr": "male_kr165.mp3"
+  },
+  {
+    "id": 166,
+    "ko": "이",
+    "vi": "Hai",
+    "img": "",
+    "female_kr": "female_kr166.mp3",
+    "male_kr": "male_kr166.mp3"
+  },
+  {
+    "id": 167,
+    "ko": "삼",
+    "vi": "Ba",
+    "img": "",
+    "female_kr": "female_kr167.mp3",
+    "male_kr": "male_kr167.mp3"
+  },
+  {
+    "id": 168,
+    "ko": "사",
+    "vi": "Bốn",
+    "img": "",
+    "female_kr": "female_kr168.mp3",
+    "male_kr": "male_kr168.mp3"
+  },
+  {
+    "id": 169,
+    "ko": "오",
+    "vi": "Năm",
+    "img": "",
+    "female_kr": "female_kr169.mp3",
+    "male_kr": "male_kr169.mp3"
+  },
+  {
+    "id": 170,
+    "ko": "육",
+    "vi": "Sáu",
+    "img": "",
+    "female_kr": "female_kr170.mp3",
+    "male_kr": "male_kr170.mp3"
+  },
+  {
+    "id": 171,
+    "ko": "칠",
+    "vi": "Bảy",
+    "img": "",
+    "female_kr": "female_kr171.mp3",
+    "male_kr": "male_kr171.mp3"
+  },
+  {
+    "id": 172,
+    "ko": "팔",
+    "vi": "Tám",
+    "img": "",
+    "female_kr": "female_kr172.mp3",
+    "male_kr": "male_kr172.mp3"
+  },
+  {
+    "id": 173,
+    "ko": "구",
+    "vi": "Chín",
+    "img": "",
+    "female_kr": "female_kr173.mp3",
+    "male_kr": "male_kr173.mp3"
+  },
+  {
+    "id": 174,
+    "ko": "십",
+    "vi": "Mười",
+    "img": "",
+    "female_kr": "female_kr174.mp3",
+    "male_kr": "male_kr174.mp3"
+  },
+  {
+    "id": 175,
+    "ko": "이십",
+    "vi": "Hai mươi",
+    "img": "",
+    "female_kr": "female_kr175.mp3",
+    "male_kr": "male_kr175.mp3"
+  },
+  {
+    "id": 176,
+    "ko": "삼십",
+    "vi": "Ba mươi",
+    "img": "",
+    "female_kr": "female_kr176.mp3",
+    "male_kr": "male_kr176.mp3"
+  },
+  {
+    "id": 177,
+    "ko": "작년",
+    "vi": "Năm ngoái",
+    "img": "",
+    "female_kr": "female_kr177.mp3",
+    "male_kr": "male_kr177.mp3"
+  },
+  {
+    "id": 178,
+    "ko": "올해",
+    "vi": "Năm nay",
+    "img": "",
+    "female_kr": "female_kr178.mp3",
+    "male_kr": "male_kr178.mp3"
+  },
+  {
+    "id": 179,
+    "ko": "내년",
+    "vi": "Năm sau",
+    "img": "",
+    "female_kr": "female_kr179.mp3",
+    "male_kr": "male_kr179.mp3"
+  },
+  {
+    "id": 180,
+    "ko": "언제",
+    "vi": "Khi nào",
+    "img": "",
+    "female_kr": "female_kr180.mp3",
+    "male_kr": "male_kr180.mp3"
+  },
+  {
+    "id": 181,
+    "ko": "생일",
+    "vi": "Sinh nhật",
+    "img": "",
+    "female_kr": "female_kr181.mp3",
+    "male_kr": "male_kr181.mp3"
+  },
+  {
+    "id": 182,
+    "ko": "친구",
+    "vi": "Bạn bè",
+    "img": "",
+    "female_kr": "female_kr182.mp3",
+    "male_kr": "male_kr182.mp3"
+  },
+  {
+    "id": 183,
+    "ko": "케이크",
+    "vi": "Bánh kem",
+    "img": "",
+    "female_kr": "female_kr183.mp3",
+    "male_kr": "male_kr183.mp3"
+  },
+  {
+    "id": 184,
+    "ko": "미역국",
+    "vi": "Canh rong biển",
+    "img": "",
+    "female_kr": "female_kr184.mp3",
+    "male_kr": "male_kr184.mp3"
+  }
+]
+}
