@@ -1,0 +1,226 @@
+
+{
+  "lesson_id": 2,
+  "media_1": "https://cdn.jsdelivr.net/gh/hoangdienidvn-ui/eps_topik_1-10@main/",
+  "media_2": "https://archive.org/download/eps_topik_1-10/",
+  "title": "생활용품",
+  "title_vi": "Đồ dùng sinh hoạt",
+  "vocabulary": [
+  {
+    "id": 44,
+    "ko": "이것",
+    "vi": "Cái này",
+    "img": "",
+    "female_kr": "female_kr044.mp3",
+    "male_kr": "male_kr044.mp3"
+  },
+  {
+    "id": 45,
+    "ko": "저것",
+    "vi": "Cái kia",
+    "img": "",
+    "female_kr": "female_kr045.mp3",
+    "male_kr": "male_kr045.mp3"
+  },
+  {
+    "id": 46,
+    "ko": "그것",
+    "vi": "Cái đó",
+    "img": "",
+    "female_kr": "female_kr046.mp3",
+    "male_kr": "male_kr046.mp3"
+  },
+  {
+    "id": 47,
+    "ko": "무엇",
+    "vi": "Cái gì",
+    "img": "",
+    "female_kr": "female_kr047.mp3",
+    "male_kr": "male_kr047.mp3"
+  },
+  {
+    "id": 48,
+    "ko": "연필",
+    "vi": "Bút chì",
+    "img": "",
+    "female_kr": "female_kr048.mp3",
+    "male_kr": "male_kr048.mp3"
+  },
+  {
+    "id": 49,
+    "ko": "볼펜",
+    "vi": "Bút bi",
+    "img": "",
+    "female_kr": "female_kr049.mp3",
+    "male_kr": "male_kr049.mp3"
+  },
+  {
+    "id": 50,
+    "ko": "가위",
+    "vi": "Cái kéo",
+    "img": "",
+    "female_kr": "female_kr050.mp3",
+    "male_kr": "male_kr050.mp3"
+  },
+  {
+    "id": 51,
+    "ko": "칼",
+    "vi": "Dao rọc giấy",
+    "img": "",
+    "female_kr": "female_kr051.mp3",
+    "male_kr": "male_kr051.mp3"
+  },
+  {
+    "id": 52,
+    "ko": "시계",
+    "vi": "Đồng hồ",
+    "img": "",
+    "female_kr": "female_kr052.mp3",
+    "male_kr": "male_kr052.mp3"
+  },
+  {
+    "id": 53,
+    "ko": "달력",
+    "vi": "Lịch",
+    "img": "",
+    "female_kr": "female_kr053.mp3",
+    "male_kr": "male_kr053.mp3"
+  },
+  {
+    "id": 54,
+    "ko": "컴퓨터",
+    "vi": "Máy tính",
+    "img": "",
+    "female_kr": "female_kr054.mp3",
+    "male_kr": "male_kr054.mp3"
+  },
+  {
+    "id": 55,
+    "ko": "안경",
+    "vi": "Kính mắt",
+    "img": "",
+    "female_kr": "female_kr055.mp3",
+    "male_kr": "male_kr055.mp3"
+  },
+  {
+    "id": 56,
+    "ko": "휴대폰",
+    "vi": "Điện thoại di động",
+    "img": "",
+    "female_kr": "female_kr056.mp3",
+    "male_kr": "male_kr056.mp3"
+  },
+  {
+    "id": 57,
+    "ko": "계산기",
+    "vi": "Máy tính bỏ túi",
+    "img": "",
+    "female_kr": "female_kr057.mp3",
+    "male_kr": "male_kr057.mp3"
+  },
+  {
+    "id": 58,
+    "ko": "컵",
+    "vi": "Cốc",
+    "img": "",
+    "female_kr": "female_kr058.mp3",
+    "male_kr": "male_kr058.mp3"
+  },
+  {
+    "id": 59,
+    "ko": "휴지",
+    "vi": "Giấy vệ sinh",
+    "img": "",
+    "female_kr": "female_kr059.mp3",
+    "male_kr": "male_kr059.mp3"
+  },
+  {
+    "id": 60,
+    "ko": "가족사진",
+    "vi": "Ảnh gia đình",
+    "img": "",
+    "female_kr": "female_kr060.mp3",
+    "male_kr": "male_kr060.mp3"
+  },
+  {
+    "id": 61,
+    "ko": "여권",
+    "vi": "Hộ chiếu",
+    "img": "",
+    "female_kr": "female_kr061.mp3",
+    "male_kr": "male_kr061.mp3"
+  },
+  {
+    "id": 62,
+    "ko": "지갑",
+    "vi": "Ví",
+    "img": "",
+    "female_kr": "female_kr062.mp3",
+    "male_kr": "male_kr062.mp3"
+  },
+  {
+    "id": 63,
+    "ko": "열쇠",
+    "vi": "Chìa khóa",
+    "img": "",
+    "female_kr": "female_kr063.mp3",
+    "male_kr": "male_kr063.mp3"
+  },
+  {
+    "id": 64,
+    "ko": "가방",
+    "vi": "Túi xách",
+    "img": "",
+    "female_kr": "female_kr064.mp3",
+    "male_kr": "male_kr064.mp3"
+  },
+  {
+    "id": 65,
+    "ko": "우산",
+    "vi": "Ô, dù",
+    "img": "",
+    "female_kr": "female_kr065.mp3",
+    "male_kr": "male_kr065.mp3"
+  },
+  {
+    "id": 66,
+    "ko": "화장품",
+    "vi": "Mỹ phẩm",
+    "img": "",
+    "female_kr": "female_kr066.mp3",
+    "male_kr": "male_kr066.mp3"
+  },
+  {
+    "id": 67,
+    "ko": "거울",
+    "vi": "Gương",
+    "img": "",
+    "female_kr": "female_kr067.mp3",
+    "male_kr": "male_kr067.mp3"
+  },
+  {
+    "id": 68,
+    "ko": "빗",
+    "vi": "Lược",
+    "img": "",
+    "female_kr": "female_kr068.mp3",
+    "male_kr": "male_kr068.mp3"
+  },
+  {
+    "id": 69,
+    "ko": "베개",
+    "vi": "Gối",
+    "img": "",
+    "female_kr": "female_kr069.mp3",
+    "male_kr": "male_kr069.mp3"
+  },
+  {
+    "id": 70,
+    "ko": "이불",
+    "vi": "Chăn",
+    "img": "",
+    "female_kr": "female_kr070.mp3",
+    "male_kr": "male_kr070.mp3"
+  }
+]
+}
